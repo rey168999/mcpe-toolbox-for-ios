@@ -1,0 +1,22 @@
+	   ß	  
+  
+ BiomeOverride   CenterMapsToOrigin  ConfirmedPlatformLockedContent 
+ Difficulty    FlatWorldLayersô {"biome_id":1,"block_layers":[{"block_name":"minecraft:bedrock","count":1},{"block_name":"minecraft:dirt","count":2},{"block_name":"minecraft:grass","count":1}],"encoding_version":6,"structure_options":null,"world_version":"version.post_1_18"}
+
+ ForceGameType  GameType    	 Generator    InventoryVersion 1.19.2 LANBroadcast LANBroadcastIntent
+ LastPlayeds#½b    	 LevelName World LimitedWorldOriginX     LimitedWorldOriginYÿ   LimitedWorldOriginZ    	 MinimumCompatibleClientVersion                      MultiplayerGame MultiplayerGameIntent NetherScale    NetworkVersion   Platform    PlatformBroadcastIntent   
+ RandomSeedÆ‘h®øÒ% SpawnV1Villagers  SpawnX     SpawnYÿ   SpawnZ     StorageVersion	    TimeT       WorldVersion    XBLBroadcastIntent   
+	 abilities
+ attackmobs
+ attackplayers build doorsandswitches flySpeedÍÌL= flying 
+ instabuild  invulnerable 	 lightning  mayfly  mine op  opencontainers permissionsLevel     playerPermissionsLevel    teleport 	 walkSpeedÍÌÌ=  baseGameVersion * bonusChestEnabled  bonusChestSpawned  commandblockoutput commandblocksenabled commandsEnabled  currentTickT       dodaylightcycle
+ doentitydrops
+ dofiretick doimmediaterespawn 
+ doinsomnia	 domobloot
+ domobspawning dotiledrops doweathercycle drowningdamage eduOffer     educationFeaturesEnabled 
+ experiments experiments_ever_used  saved_with_toggled_experiments  
+ falldamage
+ firedamage freezedamage functioncommandlimit'   hasBeenLoadedInCreative  hasLockedBehaviorPack  hasLockedResourcePack  immutableWorld  isFromLockedTemplate  isFromWorldTemplate  isSingleUseWorld  isWorldTemplateOptionLocked 
+ keepinventory 	 lastOpenedWithVersion                    lightningLevel    
+ lightningTimeõ  limitedWorldDepth    limitedWorldWidth    maxcommandchainlengthÿÿ   mobgriefing naturalregeneration prid   pvp	 rainLevel     rainTime;R  randomtickspeed    requiresCopiedPackRemovalCheck  respawnblocksexplode sendcommandfeedback serverChunkTickRange    showbordereffect showcoordinates  showdeathmessages showtags	 spawnMobs spawnradius    startWithMapEnabled  texturePacksRequired  tntexplodes useMsaGamertagsOnly  worldStartCountþÿÿÿ    
+ world_policies  
