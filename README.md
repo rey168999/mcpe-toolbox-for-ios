@@ -1,4 +1,12 @@
 # MCPE Toolbox for iOS
-Welcome to the one and only Minecraft Pocket Edition Mod Menu for Apple iOS devices! With this shortcut, you can modify MCPE values such as change anything in your options folder easily, edit your worlds, etc. Remember that It's always being worked on, and will consist of many updates. You can join the [Discord Server](https://discord.gg/NdbD3bMBRb) for more detailed changelogs and updates along with joining community.
+This is the one and only Minecraft Pocket Edition Mod Menu for Apple iOS devices created with Shortcuts! With this shortcut, you can modify MCPE values such as change anything in your options easily, edit your worlds, etc. 
+Remember that it's always being worked on, and will consist of many updates. You can join the Discord server or check the GitHub for more detailed releases, updates, and changelog.
 
-There is also a [YouTube Channel](https://www.youtube.com/channel/UC6kWcFkuxXnWJaeFJnjs_Vg/) with videos on the progress/updates on MCPE Toolbox for iOS. There's also videos on the YouTube explaining how it was/will be created. The project will start as a editor type menu to a modifier type menu.
+There's also a YouTube channel with videos on the progress/updates on MCPE Toolbox for iOS. Please note that the project will start as an editor type menu to a modifier type menu.
+That means actual "hacks" won't be added until way later.
+
+**Useful Links:**
+<br>[YouTube Channel](https://www.youtube.com/channel/UC6kWcFkuxXnWJaeFJnjs_Vg/)
+<br>[Discord Server](https://discord.gg/NdbD3bMBRb/)
+<br>[Website](https://mcpetoolboxforios.5v.pl/)
+<br>[API](https://mcpetoolboxforios.5v.pl/api/)
