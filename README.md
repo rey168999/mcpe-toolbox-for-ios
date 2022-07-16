@@ -9,4 +9,5 @@ That means actual "hacks" won't be added until way later.
 <br>[YouTube Channel](https://www.youtube.com/channel/UC6kWcFkuxXnWJaeFJnjs_Vg/)
 <br>[Discord Server](https://discord.gg/NdbD3bMBRb/)
 <br>[Website](https://mcpetoolboxforios.5v.pl/)
+<br>[Reddit](https://www.reddit.com/r/mcpetoolboxforios/)
 <br>[API](https://mcpetoolboxforios.5v.pl/api/)
