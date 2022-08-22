@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/95001376/185730892-3938cd44-14b6-4cc3-9459-6f8a95e42235.png)
 
-# Brief Overview
-This is the first *free* non-jailbreak mod menu hack client for Minecraft on iOS devices. With this shortcut, you can modify MCPE values (such as change anything in your options easily or edit your worlds) and you can have ability to enable or disable hacks.
+## Brief Overview
 
-Remember that it's always being worked on, and will consist of many updates. You can join the discord server or check the github for more detailed releases, updates, and changelog. Right now the github contains the only wikipedia page for the project! There's also a YouTube channel with videos on the progress/updates over the project.
+MCPE Toolbox for iOS is the first free non-jailbreak mod menu hack client for Minecraft on iOS devices. With this shortcut, you can modify MCPE values (such as change anything in your options easily or edit your worlds), and you can have the ability to enable or disable hacks.
 
+Remember that it's constantly being worked on and will contain many updates. You can join the discord server or check Github for more detailed releases, updates, and changelogs. Right now, GitHub has the only Wikipedia page for the project! There's also a YouTube channel with videos on the progress/updates of the project.
 For more information, please read the [wiki](https://github.com/chrstn43/mcpe-toolbox-for-ios/wiki).
 
 **Useful Links:**
