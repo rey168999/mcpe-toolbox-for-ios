@@ -10,5 +10,5 @@ For more information, please read the [wiki](https://github.com/chrstn43/mcpe-to
 **Useful Links:**
 <br>[YouTube Channel](https://www.youtube.com/channel/UC6kWcFkuxXnWJaeFJnjs_Vg)
 <br>[Discord Server](https://discord.com/invite/NdbD3bMBRb)
-<br>[Website (API)](https://mcpetoolboxforios.5v.pl/)
-<br>[Subreddit](https://www.reddit.com/r/mcpetoolboxforios/)
+<br>[Website (API)](https://mcpetoolboxforios.5v.pl)
+<br>[Subreddit](https://www.reddit.com/r/mcpetoolboxforios)
