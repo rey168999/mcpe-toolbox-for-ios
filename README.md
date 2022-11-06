@@ -8,7 +8,7 @@ Remember that it's constantly being worked on and will contain many updates. You
 For more information, please read the [wiki](https://github.com/chrstn43/mcpe-toolbox-for-ios/wiki).
 
 **Useful Links:**
-<br>[YouTube Channel](https://www.youtube.com/channel/UC6kWcFkuxXnWJaeFJnjs_Vg)
+<br>[YouTube Channel](https://www.youtube.com/channel/UC5FKOT4QgTMt5oDpBs6xYWw)
 <br>[Discord Server](https://discord.com/invite/NdbD3bMBRb)
 <br>[Website (API)](https://mcpetoolboxforios.5v.pl)
 <br>[Subreddit](https://www.reddit.com/r/mcpetoolboxforios)
